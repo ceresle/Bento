@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'MicroHawk',
+  name: 'toast',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'GitLab',
-      icon: 'gitlab',
-      link: 'https://about.gitlab.com/',
+      name: 'Proton',
+      icon: 'proton',
+      link: 'https://mail.proton.me/u/0/inbox',
     },
     {
       id: '6',
-      name: 'Medium',
-      icon: 'book-open',
-      link: 'https://medium.com/',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/',
     },
   ],
 
